@@ -1,7 +1,7 @@
 name: stonekaiju4
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.2615576731041074
+typography_spectrum: 0.22334
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.36860909569077194
-  lightness: 0.6207402918953449
-  saturation: 0.6570993312634528
-  rhythmicContrast: 0.1646359662991017
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
