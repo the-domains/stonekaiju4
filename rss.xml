@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[stonekaiju4]]></title>
+        <description><![CDATA[stonekaiju4]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Dec 2015 10:26:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stone Kaiju]]></title>
+            <description><![CDATA[<article><h1>Stone Kaiju</h1><p>3d print capable. In house SLA printer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c0b7235821b944d8f391e34f1e01a52e8bd9d3d.jpg"></article>]]></description>
+            <link>undefinedstone-kaiju/index.html</link>
+            <guid isPermaLink="false">245d4def-1b8c-4d7a-8389-56bc8812648b</guid>
+            <pubDate>Tue, 29 Dec 2015 10:26:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
